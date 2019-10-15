@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "tarih_saat", "tarih_saat\tarih_saat.pyproj", "{65E36D51-1DA7-4F63-8ED5-36234E906474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65E36D51-1DA7-4F63-8ED5-36234E906474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65E36D51-1DA7-4F63-8ED5-36234E906474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68CFF1DE-B650-483E-9376-C94077237B9A}
+	EndGlobalSection
+EndGlobal
